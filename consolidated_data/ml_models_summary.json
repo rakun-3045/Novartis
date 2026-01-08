@@ -1,0 +1,79 @@
+{
+  "risk_classification": [
+    {
+      "Model": "Random Forest",
+      "Accuracy": 99.57,
+      "F1 Score": 99.56,
+      "CV Mean": 99.74,
+      "CV Std": 0.07
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Accuracy": 99.71,
+      "F1 Score": 99.7,
+      "CV Mean": 99.84,
+      "CV Std": 0.03
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 99.36,
+      "F1 Score": 99.35,
+      "CV Mean": 99.45,
+      "CV Std": 0.06
+    }
+  ],
+  "pending_classification": [
+    {
+      "Model": "Random Forest",
+      "Accuracy": 100.0,
+      "F1 Score": 100.0,
+      "CV Mean": 99.98,
+      "CV Std": 0.01
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Accuracy": 100.0,
+      "F1 Score": 100.0,
+      "CV Mean": 100.0,
+      "CV Std": 0.0
+    },
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 100.0,
+      "F1 Score": 100.0,
+      "CV Mean": 100.0,
+      "CV Std": 0.01
+    }
+  ],
+  "issues_regression": [
+    {
+      "Model": "Random Forest",
+      "R\u00b2 Score": 0.9946,
+      "MAE": 0.06,
+      "RMSE": 0.8,
+      "CV R\u00b2 Mean": 0.9832,
+      "CV R\u00b2 Std": 0.0214
+    },
+    {
+      "Model": "Gradient Boosting",
+      "R\u00b2 Score": 0.9988,
+      "MAE": 0.05,
+      "RMSE": 0.38,
+      "CV R\u00b2 Mean": 0.9911,
+      "CV R\u00b2 Std": 0.011
+    },
+    {
+      "Model": "Ridge Regression",
+      "R\u00b2 Score": 1.0,
+      "MAE": 0.0,
+      "RMSE": 0.0,
+      "CV R\u00b2 Mean": 1.0,
+      "CV R\u00b2 Std": 0.0
+    }
+  ],
+  "best_models": {
+    "risk": "Gradient Boosting",
+    "pending": "Random Forest",
+    "issues": "Ridge Regression"
+  }
+}

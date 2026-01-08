@@ -1,0 +1,89 @@
+Study,Subject,Country,Site,Region,SubjectStatus,LatestVisit,open_issues_count,safety_discrepancy_count,safety_reviews_completed,safety_reviews_pending,meddra_total_events,meddra_coded_count,meddra_require_coding,meddra_coding_pending,whodd_total_events,whodd_coded_count,whodd_require_coding,whodd_coding_pending,inactivated_forms_count,inactivated_with_data,missing_pages_count,avg_days_missing,max_days_missing,missing_lab_count,missing_lab_name_count,outstanding_visits_count,avg_days_outstanding,max_days_outstanding,total_days_outstanding,total_issues,meddra_completion_rate,whodd_completion_rate,safety_completion_rate,risk_category,has_pending_items
+Study 1,Subject 1,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 10,FRA,Site 4,EMEA,On Trial,End of Treatment (1),0,26,26,0,22,22,0,0,36,36,0,0,149,125,7,61.8,80,4,1,0,0.0,0,0,37,1.0,1.0,1.0,Critical,1
+Study 1,Subject 11,AUT,Site 5,EMEA,,Screening,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,0,0,0,0.0,0,0,2,0.0,0.0,0.0,Medium,1
+Study 1,Subject 12,AUT,Site 6,EMEA,,W4D1 (1),0,3,3,0,10,10,0,0,10,10,0,0,4,3,23,39.31,51,80,80,1,17.0,17,17,106,1.0,1.0,1.0,Critical,1
+Study 1,Subject 13,AUT,Site 6,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,37.0,37,0,0,0,0.0,0,0,5,0.0,0.0,0.0,Medium,1
+Study 1,Subject 14,ISR,Site 7,EMEA,On Trial,W22D1 (1),1,26,26,0,23,23,0,0,23,22,1,1,130,101,2,218.0,218,0,0,0,0.0,0,0,30,1.0,0.9565,1.0,Critical,1
+Study 1,Subject 15,ISR,Site 8,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 17,DEU,Site 10,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 18,DEU,Site 10,EMEA,Discontinued,Follow-up_Week 8 (1),2,13,13,0,39,39,0,0,12,12,0,0,170,126,0,0.0,0,0,0,0,0.0,0,0,15,1.0,1.0,1.0,High,0
+Study 1,Subject 19,DEU,Site 10,EMEA,Discontinued,End of Treatment (1),3,39,39,0,32,32,0,0,14,14,0,0,132,91,0,0.0,0,0,0,0,0.0,0,0,42,1.0,1.0,1.0,Critical,0
+Study 1,Subject 2,FRA,Site 2,EMEA,Discontinued,Follow-up (1),0,3,3,0,15,15,0,0,14,14,0,0,140,105,0,0.0,0,0,0,0,0.0,0,0,3,1.0,1.0,1.0,Medium,0
+Study 1,Subject 20,SGP,Site 11,ASIA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 21,SGP,Site 11,ASIA,,Screening,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,61.0,61,0,0,0,0.0,0,0,2,0.0,0.0,0.0,Medium,1
+Study 1,Subject 22,KOR,Site 12,ASIA,On Trial,W1D4 (1),1,0,0,0,3,3,0,0,13,8,5,5,27,19,2,52.0,52,4,0,1,11.0,11,11,12,1.0,0.6154,0.0,High,1
+Study 1,Subject 23,ESP,Site 13,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 25,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 26,ESP,Site 14,EMEA,On Trial,Unplanned Visit (10),1,0,0,0,77,77,0,0,49,48,1,1,159,93,1,0.0,0,0,0,0,0.0,0,0,3,1.0,0.9796,0.0,Medium,1
+Study 1,Subject 27,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 28,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 3,FRA,Site 2,EMEA,Discontinued,Follow-up (1),0,0,0,0,12,12,0,0,7,7,0,0,94,50,0,0.0,0,0,0,0,0.0,0,0,0,1.0,1.0,0.0,Low,0
+Study 1,Subject 30,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 31,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 32,ESP,Site 14,EMEA,On Trial,Follow-up_Week 8 (1),4,20,20,0,57,57,0,0,31,31,0,0,139,55,2,0.0,0,0,0,0,0.0,0,0,26,1.0,1.0,1.0,Critical,1
+Study 1,Subject 33,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 34,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 35,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 36,ESP,Site 14,EMEA,On Trial,W7D1 (1),1,18,18,0,25,25,0,0,10,10,0,0,59,32,1,0.0,0,2,0,4,13.5,16,54,22,1.0,1.0,1.0,Critical,1
+Study 1,Subject 37,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 38,ESP,Site 14,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 39,ESP,Site 15,EMEA,Discontinued,Unplanned Visit (12),5,49,49,0,47,47,0,0,53,53,0,0,175,124,0,0.0,0,0,0,0,0.0,0,0,54,1.0,1.0,1.0,Critical,0
+Study 1,Subject 4,FRA,Site 2,EMEA,On Trial,Screening,0,0,0,0,9,9,0,0,18,18,0,0,7,5,0,0.0,0,0,0,0,0.0,0,0,0,1.0,1.0,0.0,Low,0
+Study 1,Subject 40,ESP,Site 15,EMEA,Screen Failure,Screening,0,0,0,0,3,3,0,0,0,0,0,0,5,2,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 42,ESP,Site 15,EMEA,On Trial,W40D1 (1),4,43,43,0,39,39,0,0,31,31,0,0,135,82,0,0.0,0,0,0,0,0.0,0,0,47,1.0,1.0,1.0,Critical,0
+Study 1,Subject 43,ESP,Site 15,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 44,ESP,Site 15,EMEA,On Trial,W28D1 (1),3,37,37,0,27,27,0,0,34,34,0,0,75,41,4,58.0,58,0,0,0,0.0,0,0,44,1.0,1.0,1.0,Critical,1
+Study 1,Subject 45,ESP,Site 15,EMEA,Discontinued,End of Treatment (1),1,25,25,0,27,27,0,0,41,41,0,0,119,101,4,99.0,99,0,0,0,0.0,0,0,30,1.0,1.0,1.0,Critical,1
+Study 1,Subject 46,ESP,Site 15,EMEA,On Trial,W8D7 (1),3,20,20,0,20,20,0,0,29,29,0,0,22,14,0,0.0,0,0,0,0,0.0,0,0,23,1.0,1.0,1.0,Critical,0
+Study 1,Subject 47,ESP,Site 15,EMEA,On Trial,W22D1 (1),2,25,25,0,14,14,0,0,25,25,0,0,60,24,13,58.77,115,0,0,0,0.0,0,0,40,1.0,1.0,1.0,Critical,1
+Study 1,Subject 48,ESP,Site 15,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 49,ESP,Site 15,EMEA,Screen Failure,Screening,0,0,0,0,9,9,0,0,0,0,0,0,5,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 5,FRA,Site 2,EMEA,,W1D3 (1),0,0,0,0,6,6,0,0,1,1,0,0,5,1,16,25.62,38,1,1,0,0.0,0,0,17,1.0,1.0,0.0,Critical,1
+Study 1,Subject 50,ESP,Site 15,EMEA,Screen Failure,Screening,0,0,0,0,2,2,0,0,0,0,0,0,3,0,2,0.0,0,0,0,0,0.0,0,0,2,1.0,0.0,0.0,Medium,1
+Study 1,Subject 52,ESP,Site 15,EMEA,On Trial,W1D3 (1),1,12,12,0,6,6,0,0,12,12,0,0,31,16,2,52.0,52,0,0,1,10.0,10,10,15,1.0,1.0,1.0,High,1
+Study 1,Subject 55,ESP,Site 16,EMEA,Discontinued,Screening,0,0,0,0,1,1,0,0,0,0,0,0,5,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 56,ESP,Site 16,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 57,ESP,Site 16,EMEA,Discontinued,Unplanned Visit (22),0,13,13,0,28,28,0,0,76,76,0,0,144,115,0,0.0,0,0,0,0,0.0,0,0,13,1.0,1.0,1.0,High,0
+Study 1,Subject 58,ESP,Site 16,EMEA,Screen Failure,Unplanned Visit (3),1,0,0,0,21,21,0,0,40,40,0,0,81,62,0,0.0,0,0,0,0,0.0,0,0,1,1.0,1.0,0.0,Medium,0
+Study 1,Subject 59,ESP,Site 16,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 6,FRA,Site 3,EMEA,Discontinued,Follow-up_Week 8 (1),0,3,3,0,55,55,0,0,58,58,0,0,163,91,0,0.0,0,0,0,0,0.0,0,0,3,1.0,1.0,1.0,Medium,0
+Study 1,Subject 60,ESP,Site 17,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,60.0,60,0,0,0,0.0,0,0,3,0.0,0.0,0.0,Medium,1
+Study 1,Subject 61,ESP,Site 17,EMEA,,W1D3 (1),1,6,0,6,16,14,2,2,10,10,0,0,22,16,3,37.0,51,0,0,1,11.0,11,11,12,0.875,1.0,0.0,High,1
+Study 1,Subject 62,ESP,Site 17,EMEA,,W4D1 (1),1,2,0,2,15,13,2,2,18,18,0,0,42,20,2,46.0,46,1,0,1,11.0,11,11,8,0.8667,1.0,0.0,High,1
+Study 1,Subject 63,USA,Site 18,AMERICA,On Trial,Follow-up_Week 48 (1),0,4,4,0,94,94,0,0,65,65,0,0,160,88,0,0.0,0,0,0,0,0.0,0,0,4,1.0,1.0,1.0,Medium,0
+Study 1,Subject 64,USA,Site 18,AMERICA,Discontinued,Unplanned Visit (12),2,3,3,0,102,102,0,0,96,96,0,0,208,192,0,0.0,0,0,0,0,0.0,0,0,5,1.0,1.0,1.0,Medium,0
+Study 1,Subject 65,USA,Site 18,AMERICA,On Trial,Follow-up_Week 48 (1),1,3,3,0,85,85,0,0,87,87,0,0,235,157,0,0.0,0,0,0,0,0.0,0,0,4,1.0,1.0,1.0,Medium,0
+Study 1,Subject 66,USA,Site 18,AMERICA,Discontinued,Follow-up_Week 16 (1),0,4,4,0,97,97,0,0,75,75,0,0,459,368,0,0.0,0,0,0,0,0.0,0,0,4,1.0,1.0,1.0,Medium,0
+Study 1,Subject 67,USA,Site 18,AMERICA,On Trial,Follow-up_Week 32 (1),0,25,25,0,72,72,0,0,70,70,0,0,225,158,1,0.0,0,0,0,0,0.0,0,0,26,1.0,1.0,1.0,Critical,1
+Study 1,Subject 68,USA,Site 18,AMERICA,Screen Failure,Unplanned Visit (6),0,0,0,0,24,24,0,0,32,32,0,0,8,7,0,0.0,0,0,0,0,0.0,0,0,0,1.0,1.0,0.0,Low,0
+Study 1,Subject 69,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 7,FRA,Site 3,EMEA,On Trial,Follow-up_Week 104 (1),4,0,0,0,29,29,0,0,36,36,0,0,282,108,1,0.0,0,30,30,0,0.0,0,0,35,1.0,1.0,0.0,Critical,1
+Study 1,Subject 70,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,1,1,0,0,0,0,0,0,4,1,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 71,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,8,4,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 72,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 73,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 74,USA,Site 18,AMERICA,On Trial,Unplanned Visit (1),0,13,13,0,38,38,0,0,29,29,0,0,6,0,1,0.0,0,0,0,4,12.75,15,51,14,1.0,1.0,1.0,High,1
+Study 1,Subject 75,USA,Site 18,AMERICA,On Trial,W5D7 (1),0,7,7,0,24,24,0,0,26,25,1,1,6,0,1,0.0,0,0,0,0,0.0,0,0,9,1.0,0.9615,1.0,High,1
+Study 1,Subject 76,USA,Site 18,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 77,USA,Site 19,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,45,38,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 78,USA,Site 19,AMERICA,On Trial,End of Treatment (1),6,31,31,0,38,38,0,0,42,42,0,0,136,90,17,69.67,107,0,0,0,0.0,0,0,54,1.0,1.0,1.0,Critical,1
+Study 1,Subject 79,USA,Site 19,AMERICA,Screen Failure,Screening,0,0,0,0,1,1,0,0,0,0,0,0,4,0,0,0.0,0,0,0,0,0.0,0,0,0,1.0,0.0,0.0,Low,0
+Study 1,Subject 8,FRA,Site 3,EMEA,Discontinued,Follow-up_Week 8 (1),0,0,0,0,22,22,0,0,25,25,0,0,92,65,0,0.0,0,0,0,0,0.0,0,0,0,1.0,1.0,0.0,Low,0
+Study 1,Subject 80,USA,Site 19,AMERICA,On Trial,W4D1 (1),0,1,1,0,18,18,0,0,29,20,9,9,6,3,16,51.67,67,0,0,2,21.5,32,43,26,1.0,0.6897,1.0,Critical,1
+Study 1,Subject 81,USA,Site 19,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 83,USA,Site 21,AMERICA,On Trial,W22D1 (1),3,13,10,3,18,18,0,0,22,22,0,0,116,103,19,33.78,63,0,0,0,0.0,0,0,35,1.0,1.0,0.7692,Critical,1
+Study 1,Subject 84,USA,Site 21,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 85,USA,Site 21,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 86,USA,Site 22,AMERICA,,Screening,0,0,0,0,0,0,0,0,0,0,0,0,1,1,22,21.0,21,0,0,0,0.0,0,0,22,0.0,0.0,0.0,Critical,1
+Study 1,Subject 87,USA,Site 23,AMERICA,On Trial,W25D1 (1),2,43,43,0,27,27,0,0,27,27,0,0,75,25,4,2.0,2,0,0,0,0.0,0,0,49,1.0,1.0,1.0,Critical,1
+Study 1,Subject 88,USA,Site 23,AMERICA,On Trial,W1D3 (1),1,0,0,0,14,14,0,0,26,25,1,1,42,17,5,56.0,56,0,0,0,0.0,0,0,7,1.0,0.9615,0.0,High,1
+Study 1,Subject 89,USA,Site 23,AMERICA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 9,FRA,Site 4,EMEA,On Trial,Follow-up (1),1,29,29,0,45,45,0,0,34,34,0,0,334,280,3,59.0,59,6,0,0,0.0,0,0,39,1.0,1.0,1.0,Critical,1
+Study 1,Subject 90,USA,Site 24,AMERICA,Discontinued,Unplanned Visit (2),4,46,46,0,31,31,0,0,20,20,0,0,166,142,0,0.0,0,0,0,0,0.0,0,0,50,1.0,1.0,1.0,Critical,0
+Study 1,Subject 91,GBR,Site 25,EMEA,Discontinued,End of Treatment (1),0,3,3,0,19,19,0,0,91,91,0,0,87,62,0,0.0,0,0,0,0,0.0,0,0,3,1.0,1.0,1.0,Medium,0
+Study 1,Subject 92,GBR,Site 25,EMEA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0
+Study 1,Subject 93,CHN,Site 26,ASIA,,,0,0,0,0,4,4,0,0,0,0,0,0,0,0,5,0.0,0,0,0,0,0.0,0,0,5,1.0,0.0,0.0,Medium,1
+Study 1,Subject 96,CHN,Site 27,ASIA,On Trial,W5D7 (1),1,49,37,12,24,23,1,1,37,37,0,0,257,208,1,0.0,0,0,0,0,0.0,0,0,52,0.9583,1.0,0.7551,Critical,1
+Study 1,Subject 97,CHN,Site 27,ASIA,On Trial,W5D7 (1),1,43,18,25,22,21,1,1,39,37,2,2,240,195,1,0.0,0,0,0,0,0.0,0,0,48,0.9545,0.9487,0.4186,Critical,1
+Study 1,Subject 98,CHN,Site 27,ASIA,Screen Failure,Screening,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0.0,0,0,0,0,0.0,0,0,0,0.0,0.0,0.0,Low,0

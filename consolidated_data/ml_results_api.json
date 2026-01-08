@@ -1,0 +1,181 @@
+{
+  "risk_classification": {
+    "best_model": "Gradient Boosting",
+    "accuracy": 99.71,
+    "f1_score": 99.7,
+    "all_models": [
+      {
+        "Model": "Random Forest",
+        "Accuracy": 99.57,
+        "F1 Score": 99.56,
+        "CV Mean": 99.74,
+        "CV Std": 0.07
+      },
+      {
+        "Model": "Gradient Boosting",
+        "Accuracy": 99.71,
+        "F1 Score": 99.7,
+        "CV Mean": 99.84,
+        "CV Std": 0.03
+      },
+      {
+        "Model": "Logistic Regression",
+        "Accuracy": 99.36,
+        "F1 Score": 99.35,
+        "CV Mean": 99.45,
+        "CV Std": 0.06
+      }
+    ]
+  },
+  "pending_classification": {
+    "best_model": "Random Forest",
+    "accuracy": 100.0,
+    "f1_score": 100.0,
+    "all_models": [
+      {
+        "Model": "Random Forest",
+        "Accuracy": 100.0,
+        "F1 Score": 100.0,
+        "CV Mean": 99.98,
+        "CV Std": 0.01
+      },
+      {
+        "Model": "Gradient Boosting",
+        "Accuracy": 100.0,
+        "F1 Score": 100.0,
+        "CV Mean": 100.0,
+        "CV Std": 0.0
+      },
+      {
+        "Model": "Logistic Regression",
+        "Accuracy": 100.0,
+        "F1 Score": 100.0,
+        "CV Mean": 100.0,
+        "CV Std": 0.01
+      }
+    ]
+  },
+  "issues_regression": {
+    "best_model": "Ridge Regression",
+    "r2_score": 1.0,
+    "mae": 0.0,
+    "all_models": [
+      {
+        "Model": "Random Forest",
+        "R\u00b2 Score": 0.9946,
+        "MAE": 0.06,
+        "RMSE": 0.8,
+        "CV R\u00b2 Mean": 0.9832,
+        "CV R\u00b2 Std": 0.0214
+      },
+      {
+        "Model": "Gradient Boosting",
+        "R\u00b2 Score": 0.9988,
+        "MAE": 0.05,
+        "RMSE": 0.38,
+        "CV R\u00b2 Mean": 0.9911,
+        "CV R\u00b2 Std": 0.011
+      },
+      {
+        "Model": "Ridge Regression",
+        "R\u00b2 Score": 1.0,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "CV R\u00b2 Mean": 1.0,
+        "CV R\u00b2 Std": 0.0
+      }
+    ]
+  },
+  "feature_importance": [
+    {
+      "Feature": "open_issues_count",
+      "Classification_Importance": 0.22494358204082665,
+      "Regression_Importance": 0.005861039417632571
+    },
+    {
+      "Feature": "safety_discrepancy_count",
+      "Classification_Importance": 0.1991159432422703,
+      "Regression_Importance": 0.15133420879316492
+    },
+    {
+      "Feature": "missing_lab_count",
+      "Classification_Importance": 0.181337120394611,
+      "Regression_Importance": 0.8354123883797991
+    },
+    {
+      "Feature": "safety_completion_rate",
+      "Classification_Importance": 0.07780679353742476,
+      "Regression_Importance": 0.00010969128608562831
+    },
+    {
+      "Feature": "whodd_coding_pending",
+      "Classification_Importance": 0.0649015551661939,
+      "Regression_Importance": 0.0035189919430489982
+    },
+    {
+      "Feature": "meddra_total_events",
+      "Classification_Importance": 0.04836583047572607,
+      "Regression_Importance": 0.000503867366096864
+    },
+    {
+      "Feature": "meddra_coded_count",
+      "Classification_Importance": 0.033139269837491415,
+      "Regression_Importance": 0.000605820231951084
+    },
+    {
+      "Feature": "meddra_coding_pending",
+      "Classification_Importance": 0.03137012561593098,
+      "Regression_Importance": 0.000665545910603515
+    },
+    {
+      "Feature": "inactivated_forms_count",
+      "Classification_Importance": 0.030799187365449072,
+      "Regression_Importance": 0.00013978915946286454
+    },
+    {
+      "Feature": "meddra_completion_rate",
+      "Classification_Importance": 0.026921415985596258,
+      "Regression_Importance": 3.568987968386882e-05
+    },
+    {
+      "Feature": "whodd_total_events",
+      "Classification_Importance": 0.025307979760111874,
+      "Regression_Importance": 0.00038532192321875816
+    },
+    {
+      "Feature": "whodd_completion_rate",
+      "Classification_Importance": 0.023825100422151597,
+      "Regression_Importance": 0.00013750915116358137
+    },
+    {
+      "Feature": "whodd_coded_count",
+      "Classification_Importance": 0.01823585331101145,
+      "Regression_Importance": 0.0003528157722555417
+    },
+    {
+      "Feature": "missing_pages_count",
+      "Classification_Importance": 0.0033944223247116133,
+      "Regression_Importance": 0.0007785366534736256
+    },
+    {
+      "Feature": "outstanding_visits_count",
+      "Classification_Importance": 0.0031554096332278556,
+      "Regression_Importance": 3.058605968634993e-05
+    },
+    {
+      "Feature": "total_days_outstanding",
+      "Classification_Importance": 0.0025720504479286844,
+      "Regression_Importance": 2.2665195856706115e-05
+    },
+    {
+      "Feature": "avg_days_outstanding",
+      "Classification_Importance": 0.0024294186119486316,
+      "Regression_Importance": 3.113652086119367e-05
+    },
+    {
+      "Feature": "safety_reviews_pending",
+      "Classification_Importance": 0.002378941827387967,
+      "Regression_Importance": 7.439635595486772e-05
+    }
+  ]
+}

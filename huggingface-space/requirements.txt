@@ -1,0 +1,21 @@
+# ClinicalAI RAG - Hugging Face Space Requirements
+
+# Gradio UI
+gradio==4.44.0
+
+# LangChain
+langchain==0.1.12
+langchain-core==0.1.30
+langchain-community==0.0.28
+langchain-huggingface==0.0.1
+
+# Embeddings & Vector Store
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+
+# HuggingFace
+huggingface-hub==0.21.4
+transformers==4.38.2
+
+# Utilities
+numpy==1.26.4

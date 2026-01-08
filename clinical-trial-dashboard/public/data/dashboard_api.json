@@ -1,0 +1,749 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-08T01:50:24.694398",
+    "total_studies": 23,
+    "total_subjects": 28904,
+    "data_version": "1.0"
+  },
+  "global_kpis": {
+    "total_subjects": 28904,
+    "total_issues": 36282,
+    "critical_risk_count": 611,
+    "high_risk_count": 621,
+    "pending_items_count": 1328,
+    "safety_discrepancies": 11913,
+    "missing_pages_total": 193,
+    "outstanding_visits": 868,
+    "avg_issues_per_subject": 1.26,
+    "pending_items_pct": 4.59
+  },
+  "risk_distribution": {
+    "Low": 25969,
+    "Medium": 1703,
+    "High": 621,
+    "Critical": 611
+  },
+  "studies": [
+    {
+      "study_id": "Study 10",
+      "total_subjects": 59,
+      "total_issues": 147,
+      "avg_issues": 2.49,
+      "risk_breakdown": {
+        "low": 19,
+        "medium": 36,
+        "high": 3,
+        "critical": 1
+      },
+      "pending_pct": 25.42,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 6
+    },
+    {
+      "study_id": "Study 11",
+      "total_subjects": 41,
+      "total_issues": 21,
+      "avg_issues": 0.51,
+      "risk_breakdown": {
+        "low": 28,
+        "medium": 13,
+        "high": 0,
+        "critical": 0
+      },
+      "pending_pct": 7.32,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 13",
+      "total_subjects": 20,
+      "total_issues": 36,
+      "avg_issues": 1.8,
+      "risk_breakdown": {
+        "low": 11,
+        "medium": 8,
+        "high": 0,
+        "critical": 1
+      },
+      "pending_pct": 30.0,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 14",
+      "total_subjects": 3,
+      "total_issues": 0,
+      "avg_issues": 0.0,
+      "risk_breakdown": {
+        "low": 3,
+        "medium": 0,
+        "high": 0,
+        "critical": 0
+      },
+      "pending_pct": 0.0,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 15",
+      "total_subjects": 55,
+      "total_issues": 1,
+      "avg_issues": 0.02,
+      "risk_breakdown": {
+        "low": 54,
+        "medium": 1,
+        "high": 0,
+        "critical": 0
+      },
+      "pending_pct": 1.82,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 16",
+      "total_subjects": 672,
+      "total_issues": 1383,
+      "avg_issues": 2.06,
+      "risk_breakdown": {
+        "low": 435,
+        "medium": 141,
+        "high": 85,
+        "critical": 11
+      },
+      "pending_pct": 28.27,
+      "safety_discrepancies": 44,
+      "missing_pages": 0,
+      "outstanding_visits": 327
+    },
+    {
+      "study_id": "Study 17",
+      "total_subjects": 47,
+      "total_issues": 298,
+      "avg_issues": 6.34,
+      "risk_breakdown": {
+        "low": 16,
+        "medium": 22,
+        "high": 6,
+        "critical": 3
+      },
+      "pending_pct": 21.28,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 8
+    },
+    {
+      "study_id": "Study 18",
+      "total_subjects": 164,
+      "total_issues": 12,
+      "avg_issues": 0.07,
+      "risk_breakdown": {
+        "low": 155,
+        "medium": 9,
+        "high": 0,
+        "critical": 0
+      },
+      "pending_pct": 5.49,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 19",
+      "total_subjects": 44,
+      "total_issues": 196,
+      "avg_issues": 4.45,
+      "risk_breakdown": {
+        "low": 22,
+        "medium": 19,
+        "high": 1,
+        "critical": 2
+      },
+      "pending_pct": 68.18,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 15
+    },
+    {
+      "study_id": "Study 1",
+      "total_subjects": 88,
+      "total_issues": 1108,
+      "avg_issues": 12.59,
+      "risk_breakdown": {
+        "low": 40,
+        "medium": 15,
+        "high": 9,
+        "critical": 24
+      },
+      "pending_pct": 37.5,
+      "safety_discrepancies": 700,
+      "missing_pages": 193,
+      "outstanding_visits": 15
+    },
+    {
+      "study_id": "Study 20",
+      "total_subjects": 19,
+      "total_issues": 98,
+      "avg_issues": 5.16,
+      "risk_breakdown": {
+        "low": 14,
+        "medium": 1,
+        "high": 2,
+        "critical": 2
+      },
+      "pending_pct": 10.53,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 21",
+      "total_subjects": 20401,
+      "total_issues": 229,
+      "avg_issues": 0.01,
+      "risk_breakdown": {
+        "low": 20235,
+        "medium": 165,
+        "high": 1,
+        "critical": 0
+      },
+      "pending_pct": 2.11,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 354
+    },
+    {
+      "study_id": "Study 22",
+      "total_subjects": 648,
+      "total_issues": 884,
+      "avg_issues": 1.36,
+      "risk_breakdown": {
+        "low": 102,
+        "medium": 531,
+        "high": 11,
+        "critical": 4
+      },
+      "pending_pct": 35.96,
+      "safety_discrepancies": 165,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 23",
+      "total_subjects": 1855,
+      "total_issues": 460,
+      "avg_issues": 0.25,
+      "risk_breakdown": {
+        "low": 1718,
+        "medium": 114,
+        "high": 23,
+        "critical": 0
+      },
+      "pending_pct": 0.22,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 5
+    },
+    {
+      "study_id": "Study 24",
+      "total_subjects": 530,
+      "total_issues": 18698,
+      "avg_issues": 35.28,
+      "risk_breakdown": {
+        "low": 16,
+        "medium": 96,
+        "high": 103,
+        "critical": 315
+      },
+      "pending_pct": 44.91,
+      "safety_discrepancies": 133,
+      "missing_pages": 0,
+      "outstanding_visits": 78
+    },
+    {
+      "study_id": "Study 25",
+      "total_subjects": 1374,
+      "total_issues": 270,
+      "avg_issues": 0.2,
+      "risk_breakdown": {
+        "low": 1255,
+        "medium": 105,
+        "high": 13,
+        "critical": 1
+      },
+      "pending_pct": 0.0,
+      "safety_discrepancies": 217,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 2",
+      "total_subjects": 79,
+      "total_issues": 43,
+      "avg_issues": 0.54,
+      "risk_breakdown": {
+        "low": 75,
+        "medium": 2,
+        "high": 1,
+        "critical": 1
+      },
+      "pending_pct": 2.53,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 2
+    },
+    {
+      "study_id": "Study 4",
+      "total_subjects": 1328,
+      "total_issues": 10736,
+      "avg_issues": 8.08,
+      "risk_breakdown": {
+        "low": 463,
+        "medium": 313,
+        "high": 322,
+        "critical": 230
+      },
+      "pending_pct": 2.56,
+      "safety_discrepancies": 10639,
+      "missing_pages": 0,
+      "outstanding_visits": 1
+    },
+    {
+      "study_id": "Study 5",
+      "total_subjects": 639,
+      "total_issues": 551,
+      "avg_issues": 0.86,
+      "risk_breakdown": {
+        "low": 540,
+        "medium": 62,
+        "high": 33,
+        "critical": 4
+      },
+      "pending_pct": 3.76,
+      "safety_discrepancies": 7,
+      "missing_pages": 0,
+      "outstanding_visits": 21
+    },
+    {
+      "study_id": "Study 6",
+      "total_subjects": 52,
+      "total_issues": 249,
+      "avg_issues": 4.79,
+      "risk_breakdown": {
+        "low": 35,
+        "medium": 13,
+        "high": 1,
+        "critical": 3
+      },
+      "pending_pct": 26.92,
+      "safety_discrepancies": 1,
+      "missing_pages": 0,
+      "outstanding_visits": 12
+    },
+    {
+      "study_id": "Study 7",
+      "total_subjects": 18,
+      "total_issues": 751,
+      "avg_issues": 41.72,
+      "risk_breakdown": {
+        "low": 6,
+        "medium": 3,
+        "high": 0,
+        "critical": 9
+      },
+      "pending_pct": 33.33,
+      "safety_discrepancies": 5,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    },
+    {
+      "study_id": "Study 8",
+      "total_subjects": 599,
+      "total_issues": 78,
+      "avg_issues": 0.13,
+      "risk_breakdown": {
+        "low": 563,
+        "medium": 33,
+        "high": 3,
+        "critical": 0
+      },
+      "pending_pct": 7.35,
+      "safety_discrepancies": 0,
+      "missing_pages": 0,
+      "outstanding_visits": 24
+    },
+    {
+      "study_id": "Study 9",
+      "total_subjects": 169,
+      "total_issues": 33,
+      "avg_issues": 0.2,
+      "risk_breakdown": {
+        "low": 164,
+        "medium": 1,
+        "high": 4,
+        "critical": 0
+      },
+      "pending_pct": 0.0,
+      "safety_discrepancies": 2,
+      "missing_pages": 0,
+      "outstanding_visits": 0
+    }
+  ],
+  "charts": {
+    "subjects_by_study": [
+      {
+        "study": "Study 10",
+        "count": 59
+      },
+      {
+        "study": "Study 11",
+        "count": 41
+      },
+      {
+        "study": "Study 13",
+        "count": 20
+      },
+      {
+        "study": "Study 14",
+        "count": 3
+      },
+      {
+        "study": "Study 15",
+        "count": 55
+      },
+      {
+        "study": "Study 16",
+        "count": 672
+      },
+      {
+        "study": "Study 17",
+        "count": 47
+      },
+      {
+        "study": "Study 18",
+        "count": 164
+      },
+      {
+        "study": "Study 19",
+        "count": 44
+      },
+      {
+        "study": "Study 1",
+        "count": 88
+      },
+      {
+        "study": "Study 20",
+        "count": 19
+      },
+      {
+        "study": "Study 21",
+        "count": 20401
+      },
+      {
+        "study": "Study 22",
+        "count": 648
+      },
+      {
+        "study": "Study 23",
+        "count": 1855
+      },
+      {
+        "study": "Study 24",
+        "count": 530
+      },
+      {
+        "study": "Study 25",
+        "count": 1374
+      },
+      {
+        "study": "Study 2",
+        "count": 79
+      },
+      {
+        "study": "Study 4",
+        "count": 1328
+      },
+      {
+        "study": "Study 5",
+        "count": 639
+      },
+      {
+        "study": "Study 6",
+        "count": 52
+      },
+      {
+        "study": "Study 7",
+        "count": 18
+      },
+      {
+        "study": "Study 8",
+        "count": 599
+      },
+      {
+        "study": "Study 9",
+        "count": 169
+      }
+    ],
+    "issues_by_study": [
+      {
+        "study": "Study 10",
+        "count": 147
+      },
+      {
+        "study": "Study 11",
+        "count": 21
+      },
+      {
+        "study": "Study 13",
+        "count": 36
+      },
+      {
+        "study": "Study 14",
+        "count": 0
+      },
+      {
+        "study": "Study 15",
+        "count": 1
+      },
+      {
+        "study": "Study 16",
+        "count": 1383
+      },
+      {
+        "study": "Study 17",
+        "count": 298
+      },
+      {
+        "study": "Study 18",
+        "count": 12
+      },
+      {
+        "study": "Study 19",
+        "count": 196
+      },
+      {
+        "study": "Study 1",
+        "count": 1108
+      },
+      {
+        "study": "Study 20",
+        "count": 98
+      },
+      {
+        "study": "Study 21",
+        "count": 229
+      },
+      {
+        "study": "Study 22",
+        "count": 884
+      },
+      {
+        "study": "Study 23",
+        "count": 460
+      },
+      {
+        "study": "Study 24",
+        "count": 18698
+      },
+      {
+        "study": "Study 25",
+        "count": 270
+      },
+      {
+        "study": "Study 2",
+        "count": 43
+      },
+      {
+        "study": "Study 4",
+        "count": 10736
+      },
+      {
+        "study": "Study 5",
+        "count": 551
+      },
+      {
+        "study": "Study 6",
+        "count": 249
+      },
+      {
+        "study": "Study 7",
+        "count": 751
+      },
+      {
+        "study": "Study 8",
+        "count": 78
+      },
+      {
+        "study": "Study 9",
+        "count": 33
+      }
+    ],
+    "risk_by_study": [
+      {
+        "study": "Study 10",
+        "low": 19,
+        "medium": 36,
+        "high": 3,
+        "critical": 1
+      },
+      {
+        "study": "Study 11",
+        "low": 28,
+        "medium": 13,
+        "high": 0,
+        "critical": 0
+      },
+      {
+        "study": "Study 13",
+        "low": 11,
+        "medium": 8,
+        "high": 0,
+        "critical": 1
+      },
+      {
+        "study": "Study 14",
+        "low": 3,
+        "medium": 0,
+        "high": 0,
+        "critical": 0
+      },
+      {
+        "study": "Study 15",
+        "low": 54,
+        "medium": 1,
+        "high": 0,
+        "critical": 0
+      },
+      {
+        "study": "Study 16",
+        "low": 435,
+        "medium": 141,
+        "high": 85,
+        "critical": 11
+      },
+      {
+        "study": "Study 17",
+        "low": 16,
+        "medium": 22,
+        "high": 6,
+        "critical": 3
+      },
+      {
+        "study": "Study 18",
+        "low": 155,
+        "medium": 9,
+        "high": 0,
+        "critical": 0
+      },
+      {
+        "study": "Study 19",
+        "low": 22,
+        "medium": 19,
+        "high": 1,
+        "critical": 2
+      },
+      {
+        "study": "Study 1",
+        "low": 40,
+        "medium": 15,
+        "high": 9,
+        "critical": 24
+      },
+      {
+        "study": "Study 20",
+        "low": 14,
+        "medium": 1,
+        "high": 2,
+        "critical": 2
+      },
+      {
+        "study": "Study 21",
+        "low": 20235,
+        "medium": 165,
+        "high": 1,
+        "critical": 0
+      },
+      {
+        "study": "Study 22",
+        "low": 102,
+        "medium": 531,
+        "high": 11,
+        "critical": 4
+      },
+      {
+        "study": "Study 23",
+        "low": 1718,
+        "medium": 114,
+        "high": 23,
+        "critical": 0
+      },
+      {
+        "study": "Study 24",
+        "low": 16,
+        "medium": 96,
+        "high": 103,
+        "critical": 315
+      },
+      {
+        "study": "Study 25",
+        "low": 1255,
+        "medium": 105,
+        "high": 13,
+        "critical": 1
+      },
+      {
+        "study": "Study 2",
+        "low": 75,
+        "medium": 2,
+        "high": 1,
+        "critical": 1
+      },
+      {
+        "study": "Study 4",
+        "low": 463,
+        "medium": 313,
+        "high": 322,
+        "critical": 230
+      },
+      {
+        "study": "Study 5",
+        "low": 540,
+        "medium": 62,
+        "high": 33,
+        "critical": 4
+      },
+      {
+        "study": "Study 6",
+        "low": 35,
+        "medium": 13,
+        "high": 1,
+        "critical": 3
+      },
+      {
+        "study": "Study 7",
+        "low": 6,
+        "medium": 3,
+        "high": 0,
+        "critical": 9
+      },
+      {
+        "study": "Study 8",
+        "low": 563,
+        "medium": 33,
+        "high": 3,
+        "critical": 0
+      },
+      {
+        "study": "Study 9",
+        "low": 164,
+        "medium": 1,
+        "high": 4,
+        "critical": 0
+      }
+    ]
+  }
+}

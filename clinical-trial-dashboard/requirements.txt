@@ -1,0 +1,2 @@
+# Vercel Python runtime requirements
+# Keep minimal for fast cold starts

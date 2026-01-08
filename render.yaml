@@ -1,0 +1,22 @@
+# Render Blueprint for ClinicalAI RAG Backend
+# Deploy at: https://dashboard.render.com/
+
+services:
+  - type: web
+    name: clinicalai-rag-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: HUGGINGFACEHUB_API_TOKEN
+        sync: false  # Set manually in Render dashboard
+      - key: GROQ_API_KEY
+        sync: false  # Set manually in Render dashboard
+      - key: PORT
+        value: 8000
+      - key: PYTHONUNBUFFERED
+        value: 1
+    healthCheckPath: /health
+    plan: standard  # Requires at least Standard plan for 1GB+ RAM
+    region: oregon
+    autoDeploy: true

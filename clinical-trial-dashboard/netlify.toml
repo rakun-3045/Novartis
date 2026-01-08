@@ -1,0 +1,27 @@
+# Netlify configuration for static site deployment
+# Note: Python API functions won't work on Netlify. 
+# The app will fall back to static JSON data.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# SPA fallback - redirect all routes to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Serve static data files as API fallback
+[[redirects]]
+  from = "/api/dashboard"
+  to = "/data/dashboard_api.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/ml-results"
+  to = "/data/ml_results_api.json"
+  status = 200

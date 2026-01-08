@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/**/*.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/dashboard",
+      "destination": "/api/dashboard"
+    },
+    {
+      "source": "/api/studies/:studyId",
+      "destination": "/api/studies/[studyId]"
+    },
+    {
+      "source": "/api/studies",
+      "destination": "/api/studies"
+    },
+    {
+      "source": "/api/sites",
+      "destination": "/api/sites"
+    },
+    {
+      "source": "/api/subjects",
+      "destination": "/api/subjects"
+    },
+    {
+      "source": "/api/ml-results",
+      "destination": "/api/ml-results"
+    },
+    {
+      "source": "/api/chat/stream",
+      "destination": "/api/chat/stream"
+    },
+    {
+      "source": "/api/chat",
+      "destination": "/api/chat"
+    },
+    {
+      "source": "/((?!api|data|assets).*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Credentials", "value": "true" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS,PATCH,DELETE,POST,PUT" },
+        { "key": "Access-Control-Allow-Headers", "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version" }
+      ]
+    }
+  ]
+}
