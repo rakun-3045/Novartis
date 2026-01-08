@@ -3,7 +3,7 @@
 
 **Version:** 1.0  
 **Date:** January 2026  
-**Authors:** Rahul Kumar, Karthikeya Sharma, Adarsh Pandey
+**Authors:** Rahul Kumar Nirala, Anjali Bharti, Vikrant Bagra, Soumya Goel
 
 ---
 
